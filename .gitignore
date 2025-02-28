@@ -1,0 +1,6 @@
+# do not track changes made in .ipynb_checkpoints
+**/*.ipynb_checkpoints
+**/*.pretzel
+
+# ignore log files
+*.DS_Store
