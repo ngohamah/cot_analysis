@@ -1,4 +1,5 @@
 Market and Exchange Names,As of Date in Form YYYY-MM-DD,Noncommercial Positions-Long (All),Noncommercial Positions-Short (All),Change in Noncommercial-Long (All),Change in Noncommercial-Short (All),Open Interest (All),Change in Open Interest (All),Net Positions,Change Net Positions,signal,Interpretation
+BRITISH POUND - CHICAGO MERCANTILE EXCHANGE,2025-02-25,74089,69626,     525,   -4517,200468,-2902,4463,5042.0,4,Market is weakening (Bullish Reversal)
 BRITISH POUND - CHICAGO MERCANTILE EXCHANGE,2025-02-18,73564,74143,    4477,    1888,203370,-4768,-579,2589.0,4,Market is weakening (Bullish Reversal)
 BRITISH POUND - CHICAGO MERCANTILE EXCHANGE,2025-02-11,69087,72255,    3645,   -4510,208138,3494,-3168,8155.0,1,Market is Strong (Bullish)
 BRITISH POUND - CHICAGO MERCANTILE EXCHANGE,2025-02-04,65442,76765,    6111,   -4238,204644,-2177,-11323,10349.0,4,Market is weakening (Bullish Reversal)
