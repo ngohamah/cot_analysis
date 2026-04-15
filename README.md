@@ -6,19 +6,19 @@ The Commitment of Traders report is a Commodity futures reported by the Commodit
 
                 ┌──────────────────────┐
                 │  Input Configuration │
-                │ (Symbols, Exchanges)│
+                │ (Symbols, Exchanges) │
                 └──────────┬───────────┘
                            │
                            ▼
                 ┌──────────────────────┐
                 │   Data Ingestion     │
-                │ (CFTC API / Reports)│
+                │     (Reports)        │
                 └──────────┬───────────┘
                            │
                            ▼
                 ┌──────────────────────┐
                 │ Data Synchronization │
-                │ (Time + Naming Align)│
+                │ (Date + Naming Align)│
                 └──────────┬───────────┘
                            │
                            ▼
@@ -35,8 +35,8 @@ The Commitment of Traders report is a Commodity futures reported by the Commodit
                            │
                            ▼
                 ┌──────────────────────┐
-                │   Data Storage       │
-                │ (CSV / DB / Parquet)│
+                │    Data Storage      │
+                │       (CSV)          │
                 └──────────┬───────────┘
                            │
                            ▼
