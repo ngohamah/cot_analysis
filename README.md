@@ -2,7 +2,7 @@
 
 The Commitment of Traders report is a Commodity futures reported by the Commodity Futures Trading Commission (CFTC) based on position data supplied by reporting firms (Futures Commission Merchants(FCMs), clearing members, foreign brokers and exchanges).
 
-# Simple Workflow
+## Simple Workflow
 
                 ┌──────────────────────┐
                 │  Input Configuration │
@@ -45,7 +45,7 @@ The Commitment of Traders report is a Commodity futures reported by the Commodit
                 │ (Trading / Analysis) │
                 └──────────────────────┘
 
-# How to run code
+## How to run code
 
 ```sh
 # activate your virtual environment
@@ -60,13 +60,13 @@ cd cot_analysis
 jupyter lab
 ```
 
-# Find data
+## Where to find data
 
 You may find the extracted data only in the ```data/``` folder and the data + signal infos in the ```signal``` for the different symbols queried.
 
 
 ## References
-- [The Commitments of Traders Bible by Stephen Briese](https://www.amazon.com/Commitments-Traders-Bible-Insider-Intelligence/dp/0470178426)
-- [Learn more on the COT Report](https://www.investopedia.com/terms/c/cot.asp)
+- [The Commitments of Traders Bible Book by Stephen Briese on Amazon](https://www.amazon.com/Commitments-Traders-Bible-Insider-Intelligence/dp/0470178426)
+- [Learn more on the COT Report on Investopedia](https://www.investopedia.com/terms/c/cot.asp)
 - [COT_Reports package by NDelventhal](https://github.com/NDelventhal/cot_reports)
 
