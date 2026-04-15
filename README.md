@@ -18,7 +18,7 @@ The Commitment of Traders report is a Commodity futures reported by the Commodit
                            ▼
                 ┌──────────────────────┐
                 │ Data Synchronization │
-                │ (Date + Naming Align)│
+                │(Date + Naming Align) │
                 └──────────┬───────────┘
                            │
                            ▼
@@ -30,7 +30,7 @@ The Commitment of Traders report is a Commodity futures reported by the Commodit
                            ▼
                 ┌──────────────────────┐
                 │ Feature Engineering  │
-                │ (Net + Signals)      │
+                │   (Net + Signals)    │
                 └──────────┬───────────┘
                            │
                            ▼
