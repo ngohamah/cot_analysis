@@ -1,6 +1,6 @@
 # COT Analysis
 
-The Commitment of Traders report is a Commodity futures reported by the Commodity Futures Trading Commission (CFTC) based on position data supplied by reporting firms (Futures Commission Merchants(FCMs), clearing members, foreign brokers and exchanges).
+The Commitment of Traders reports are Commodity futures reported by the Commodity Futures Trading Commission (CFTC) based on position data supplied by reporting firms (Futures Commission Merchants(FCMs), clearing members, foreign brokers and exchanges) on their investment behaviours in the futures and options markets across different exchanges in the US. Understanding this behaviour over time presents a good opportunity to identify trends and  investment opportunities in different markets.
 
 ## Simple Workflow
 
