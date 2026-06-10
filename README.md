@@ -62,7 +62,7 @@ jupyter lab
 
 ## Where to find data
 
-You may find the extracted data only in the ```data/``` folder and the data + signal infos in the ```signal``` for the different symbols queried.
+You may find the extracted data only in the ```data/``` folder and the data + signal infos in the ```signal``` for the different symbols queried. THIS IS A PULL REQUEST.
 
 
 ## References
